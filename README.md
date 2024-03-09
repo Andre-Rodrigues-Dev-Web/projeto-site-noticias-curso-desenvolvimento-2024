@@ -1,2 +1,11 @@
-# projeto-site-noticias-curso-desenvolvimento-2024
-Esse é o repositório para o nosso site de notícias
+# Projeto de site de notícias (2024) 
+
+## Esse repositório foi criado para o projeto do minicurso de Desenvolvimento Web 2024
+
+## Tecnologias adotadas
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
